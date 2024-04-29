@@ -15,6 +15,7 @@ namespace ПР14
         public Form1()
         {
             InitializeComponent();
+            dssdds
         }
     }
 }
